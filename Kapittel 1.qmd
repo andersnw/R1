@@ -1,3 +1,1 @@
 # Logaritmer
-
-Logaritmer er den inverse operasjonen til eksponentiering. Hvis vi har en ligning på formen:
