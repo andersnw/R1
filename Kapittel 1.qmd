@@ -1,1 +1,3 @@
 # Logaritmer
+
+logaritmer er den inverse funksjonen til eksponentialfunksjonen. Hvis vi har en eksponentialfunksjon på formen \(y = a^x\), der \(a\) er en positiv konstant ulik 1, så er logaritmefunksjonen definert som:
